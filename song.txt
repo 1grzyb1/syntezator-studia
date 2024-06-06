@@ -1,0 +1,67 @@
+attack: 0.05
+decay: 0.05
+sustain: 0.5
+release: 0.05
+Wave: TRIANGLE
+E
+E
+F
+G
+G
+F
+E
+D
+C
+C
+D
+E
+E
+D
+D
+E
+E
+F
+G
+G
+F
+E
+D
+C
+C
+D
+E
+D
+C
+C
+D
+D
+E
+C
+D
+E
+F
+E
+C
+D
+E
+F
+E
+D
+C
+D
+G
+E
+E
+F
+G
+G
+F
+E
+D
+C
+C
+D
+E
+D
+C
+C
